@@ -683,9 +683,9 @@ a {
   transition: color 0.6s;
 }
 .cid-tpVDBqTXIJ {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/ins-serrano-final.png");
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #070c3d;
 }
 .cid-tpVDBqTXIJ .mbr-fallback-image.disabled {
   display: none;
